@@ -1,0 +1,8 @@
+.icon{
+    width: 300px;
+    border-radius: 30px;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+    margin-bottom: 2vh;
+}

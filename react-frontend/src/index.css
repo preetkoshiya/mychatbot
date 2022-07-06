@@ -1,0 +1,36 @@
+body{
+    background-image: url('data/restaurant.jpg');
+    background-size: cover;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#box{
+    max-width: 40vw;
+    background-color: white;
+    border: 2px solid lightblue;
+    border-radius: 7px;
+    margin: auto;
+    height: 70vh;
+    margin-bottom: 2px;
+    overflow-y: auto;
+}
+
+.text{
+    background-color: lightblue;
+    width: 40%;
+    padding: 10px;
+    margin: 13px 10px;
+    border: 1px solid blue;
+}
+
+.right{
+    border-radius: 13px 0px 13px 13px;
+    float: right;
+    clear: both;
+}
+
+.left{
+    border-radius: 0px 13px 13px 13px;
+    float: left;
+    clear: both;
+}

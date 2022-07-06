@@ -1,0 +1,19 @@
+#send-box{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#inputTxt{
+    width: 35vw;
+    border: 1.8px solid blue;
+    border-radius: 6px;
+    height: 24px;
+}
+
+.btn{
+    cursor: pointer;
+    border: 1.8px solid blue;
+    border-radius: 6px;
+    height: 30px;
+}
